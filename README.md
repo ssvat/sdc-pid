@@ -3,7 +3,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 ## Introduction
-This project is to use PID control concept to keep the car staying on the track. The output of the PID controller in this project is the steering angle. The car is controlled to steer in proportion to the Cross Trackk Error (CTE).
+This project is to use PID control concept to keep the car staying on the track on the simulator by testing my sollution codes. The codes contains buidling PID controller (PID.h, PID.cpp, and main.cpp) and tuning PID hyperparamters. The output of the PID controller in this project is the steering angle. The car is controlled to steer in proportion to the Cross Trackk Error (CTE).
 
 ## Basic Build Instructions
 
